@@ -1,0 +1,48 @@
+{
+  "name": "obys-agency",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "lint": "eslint .",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@gsap/react": "^2.1.1",
+    "@react-three/fiber": "^8.17.10",
+    "@remixicon/react": "^4.4.0",
+    "animejs": "^3.2.2",
+    "framer-motion": "^11.11.9",
+    "greensock": "^1.20.2",
+    "gsap": "^3.12.5",
+    "hover-effect": "^1.2.1",
+    "jquery": "^3.7.1",
+    "locomotive-scroll": "^4.1.4",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-locomotive-scroll": "^0.2.2",
+    "react-ripples": "^2.2.1",
+    "remixicon": "^4.4.0",
+    "ripple-hover-effect": "^1.0.0",
+    "scrolltrigger": "^1.0.1",
+    "sheryjs": "^1.0.0-beta.0.1.7",
+    "three": "^0.163.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.11.1",
+    "@types/react": "^18.3.10",
+    "@types/react-dom": "^18.3.0",
+    "@vitejs/plugin-react": "^4.3.2",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^9.11.1",
+    "eslint-plugin-react": "^7.37.0",
+    "eslint-plugin-react-hooks": "^5.1.0-rc.0",
+    "eslint-plugin-react-refresh": "^0.4.12",
+    "globals": "^15.9.0",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.14",
+    "vite": "^5.4.8"
+  }
+}
